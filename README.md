@@ -2,7 +2,7 @@
 Restreaming mp4 file from an url
 
 
-``
+```
 $remoteFile = "https://galaxycloud.vn/abc.mp4";
 #header('Content-type: video/mp4');
 #echo file_get_contents($remoteFile);
@@ -23,4 +23,4 @@ function play($url){
     array_map("header", $http_response_header);
     readfile($url, false, $cong);
 }
-``
+```
