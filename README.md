@@ -1,5 +1,5 @@
 # restreaming-remote-video-file
-Restreaming mp4 file from an url
+Restreaming mp4 file from an url, allow fast forward, backward...
 
 
 ```
