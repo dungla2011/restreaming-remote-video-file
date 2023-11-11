@@ -1,6 +1,6 @@
 # restreaming-remote-video-file
-Restreaming mp4 file from an url, allow fast forward, backward...
-
+Restreaming mp4 file from an url, allow fast forward, backward...  
+It may be need to improve to limit speed client ?
 
 ```
 $remoteFile = "https://galaxycloud.vn/abc.mp4";
